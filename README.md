@@ -1,1 +1,1 @@
-# General Note-taking of Linux Related Things
+# General Note-taking of FOSS & Linux 
