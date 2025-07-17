@@ -29,4 +29,4 @@
 1. Waterfall
 2. Agile
 
-** SLA : Service Level Agreement**
+>SLA : Service Level Agreement
