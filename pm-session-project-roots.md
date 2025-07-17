@@ -34,3 +34,7 @@
 ## Activity
 - Team A : Waterfall Method
 - Team B : Agile Method
+
+## Effective Communication
+Game : Blind Drawing Game
+Role-Play Exercise Game
