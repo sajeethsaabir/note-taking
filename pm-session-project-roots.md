@@ -17,3 +17,16 @@
 3. Execution
 4. Monitoring and Controlling
 5. Closure
+
+## Project Planning
+1. Clear Goals
+2. Defined Scope
+3. Roles & Responsibilities
+4. Timeline & Milestones
+5. Communication Plan
+
+## Project Planning Methodology
+1. Waterfall
+2. Agile
+
+** SLA : Service Level Agreement**
