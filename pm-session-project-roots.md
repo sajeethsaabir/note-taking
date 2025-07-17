@@ -11,7 +11,7 @@
 - Start Doing?
     * Social media management for DST
 
-## What is project?
+## What is project? : The Key Phases of a Project
 1. Initiation
 2. Planing
 3. Execution
